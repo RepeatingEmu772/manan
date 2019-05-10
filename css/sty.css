@@ -77,6 +77,18 @@ ul{
   list-style: none;
 
 }
+.box br{
+   display: block;
+   margin: 10px 0;
+}
+.box2 br{
+   display: block;
+   margin: 10px 0;
+}
+br{
+   display: block;
+   margin: 10px 0;
+}
 a{
   color: #ffff00;
 }
