@@ -143,8 +143,8 @@ a{
 ol {
   display: block;
   list-style-type: decimal;
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin-top: 16px;
+  margin-bottom: 16px;
   margin-left: 0;
   margin-right: 0;
   padding-left: 40px;
@@ -179,7 +179,7 @@ cus.red{
 }
 
 .social-footer .social-footer-icons .fa {
-  font-size: 1.3rem;
+  font-size: 20.3px;
   color: #fefefe;
 }
 
